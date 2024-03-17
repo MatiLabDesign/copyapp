@@ -1,0 +1,18 @@
+/* App.css */
+
+.carousel-container {
+    max-width: 75%;
+    margin: 10px auto;
+}
+
+.carousel {
+    border-radius: none;
+}
+
+.carousel .slide {
+    background-color: #fff;
+}
+
+.carousel .thumb {
+    display: none; /* Ocultar miniaturas */
+}

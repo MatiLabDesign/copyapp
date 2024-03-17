@@ -1,0 +1,20 @@
+#navbar-container{
+    height: 40px;
+    background-color: #e2d21d;
+    display: flex;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.menu-item{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+
+}
+.menu-select{
+    color: #222;
+    padding: 15px;
+}

@@ -1,0 +1,27 @@
+.main{max-width: 100%;
+    /* height: 100vh; */
+    background-color: #fff693;
+
+    
+}
+
+.banner{
+    width: 75%;
+    display: flex;
+    margin: auto;
+
+}
+
+.pre{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    background-color: #fff;
+    align-items: center;
+}
+
+.precios{
+    width: 80%;
+}

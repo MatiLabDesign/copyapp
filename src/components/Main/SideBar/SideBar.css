@@ -1,0 +1,8 @@
+.sidebar-container{
+    width: 250px;
+    height: 100vh;
+    background-color: #cccccc;
+    position: absolute;
+    box-shadow: 2px 2px 15px #999;
+    z-index: 2;
+}

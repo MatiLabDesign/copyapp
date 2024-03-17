@@ -1,0 +1,13 @@
+.menu-item{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+    
+
+}
+.menu-select{
+    color: #222;
+    padding: 15px;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

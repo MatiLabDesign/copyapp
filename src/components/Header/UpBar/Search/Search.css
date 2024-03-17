@@ -1,0 +1,29 @@
+.search{
+	display: flex;
+	height: 35px;
+
+	
+}
+
+.llenar{
+	width: auto;
+	height: auto;
+}
+
+.llenar>input{
+	width: 300px;
+	height: 35px;
+	background-color: #fff;
+	border: none;
+}
+
+.boton{
+	width: 35px;
+	height: auto;
+	background-color: #b8b8b8;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	
+}

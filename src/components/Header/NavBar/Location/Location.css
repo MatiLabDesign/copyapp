@@ -1,0 +1,36 @@
+.roseta-ubicacion{
+    display: flex;
+    width: 150px;
+    height: 35px;
+    background-color: #99999900;
+    align-items: center;
+    border: none;
+}
+
+.ubicacion:hover{
+    border: solid 1px #aca002;
+    
+    
+    
+}
+
+.roseta{
+    color: #222;
+}
+
+/* .palabras{
+    background-color: #567
+} */
+
+.palabra1{
+    text-align: left;
+    font-size: 11px;
+    padding-left: 5px;
+    color: #222;
+}
+.palabra2{
+    text-align: left;
+    font-size: 15px;
+    padding-left: 5px;
+    color: #222;
+}
